@@ -1,0 +1,1 @@
+My approach here was to create a help method. We pass though the root node along with null to replace max and min. Then we check whether or not the value are allowed in this range depending on the position of the tree. If its true then it will traverse through the whole tree, if false then it will invalidate the whole tree. 
